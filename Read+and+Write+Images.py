@@ -1,20 +1,12 @@
 
 # coding: utf-8
 
-# ### Importing libraries
-# * cv2 is imported for using image and video files and to do some processing on them.
-# * matplotlib is a tool used here to visualize the images.
-# * os is used to deal with system and to retrieve files from the current hardware.
-
-# In[1]:
-
+#import libraries
 import cv2
 import matplotlib.pyplot as plt
 import os
 print("all libraries imported")
 
-
-# In[9]:
 
 path=input("Enter the path:")
 print(path) #to ensure that the path of images is the same as what is typed in 
@@ -47,7 +39,7 @@ for image in images:
 print("images written in .png format in the path")
 
 
-# In[ ]:
+
 
 
 
