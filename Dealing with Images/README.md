@@ -5,3 +5,6 @@
 * matplotlib is a tool used here to visualize the images.
 * os is used to deal with system and to retrieve files from the current hardware.
 
+##### Reading and writing images
+* To read a single image,
+
